@@ -1,4 +1,3 @@
 [run]
 branch = True
-omit =
-    test_*
+omit = test_*
