@@ -1,4 +1,5 @@
 import pytest
+
 from target_func import can_drink_alcohol, my_partial_func
 
 
